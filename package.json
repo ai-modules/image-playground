@@ -1,0 +1,8 @@
+{
+  "name": "image-modules",
+  "private": true,
+  "devDependencies": {
+    "@tensorflow-models/mobilenet": "^2.1.0",
+    "@tensorflow/tfjs": "^4.4.0"
+  }
+}
